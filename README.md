@@ -36,6 +36,4 @@ Follow these steps to get started with Alx-fronted-for-fun:
 
 ## Contribution Guidelines
 
-We welcome contributions from the community to enhance and expand the capabilities of Alx-fronted-for-fun. If you have ideas, bug fixes, or new features to propose, feel free to open an issue or submit a pull request.
-
-Enjoy converting your content with a touch of fun and creativity!
+If you have ideas, bug fixes, or new features to propose, feel free to open an issue or submit a pull request.
